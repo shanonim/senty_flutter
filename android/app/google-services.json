@@ -1,0 +1,42 @@
+{
+  "project_info": {
+    "project_number": "1061245267270",
+    "firebase_url": "https://pristine-atom-163405.firebaseio.com",
+    "project_id": "pristine-atom-163405",
+    "storage_bucket": "pristine-atom-163405.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:1061245267270:android:faf4d0217b7a3d9f",
+        "android_client_info": {
+          "package_name": "com.shanonim.sentyflutter"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "1061245267270-7sehsmf4osopc4otldrnb3aalahfmov0.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyD459cmxpMHM55pKbwiAhvnNmCXPjCqs0g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 1,
+          "other_platform_oauth_client": []
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
